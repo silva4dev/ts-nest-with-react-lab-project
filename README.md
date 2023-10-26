@@ -1,4 +1,4 @@
-# Ignite Lab 01
+# Lab V1
 
 - NestJS
 - GraphQL
