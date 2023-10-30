@@ -1,4 +1,4 @@
-# Lab V1
+# Lab
 
 - NestJS
 - GraphQL
